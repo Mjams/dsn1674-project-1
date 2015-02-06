@@ -1,0 +1,46 @@
+/*fonts,
+font-family: 'Slabo 27px', serif;
+font-family: 'Chango', cursive;*/
+
+/*colours:
+#b32f52 <pink>
+#ffe524 <yellow>
+#b2a215 <puke color>
+#fffce0 <image block>
+*/
+
+body {
+  font-family: 'Slabo 27px', serif;
+}
+
+h1 {
+  font-family: 'Chango', cursive;
+  font-size: 5rem;
+  line-height: 1.5;
+  color: #b32f52;
+  background-color: #ffe524;
+  padding: 0.25em;
+  text-align: center;
+  margin: 0;
+}
+
+h2 {
+  font-family: 'Chango', cursive;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: #b32f52;
+  padding: 0.25em;
+  text-align: left;
+  margin: 0;
+  border-top: 5px solid #ffe524;
+}
+
+h3 {
+  font-family: 'Chango', cursive;
+  font-size: 2rem;
+  line-height: 1.75;
+  color: #b32f52;
+  padding: 0.25em;
+  text-align: left;
+  margin: 0;
+}

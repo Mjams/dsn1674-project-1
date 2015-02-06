@@ -82,6 +82,7 @@ blockquote {
   color: #b2a215;
   font-style: italic;
   font-size: 2rem;
+  text-align: center;
 }
 .quote {
   text-align: center;
@@ -114,4 +115,28 @@ figure {
 
 dt{
   font-weight: bold;
+  font-size: 1rem;
+  padding: 1em 0em 0em 0em;
 }
+
+dd{
+  font-size: .95rem;
+  margin: 0;
+}
+
+.links{
+  background-color: #ffe524;
+  text-align: center;
+  padding: 1em;
+  margin: 0;
+  display: block;
+}
+
+a{
+  color: #b32f52;
+}
+
+ header {
+   background color: #ffe524;
+   margin: 0em 
+ }

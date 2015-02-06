@@ -72,3 +72,46 @@ nav li {
 nav a:hover{
   background-color:#b32f52;
 }
+
+b {
+  font-weight: bold;
+  font-style: italic;
+}
+
+blockquote {
+  color: #b2a215;
+  font-style: italic;
+  font-size: 2rem;
+}
+.quote {
+  text-align: center;
+  font-size: 3rem;
+  margin: 0;
+  padding: 0em;
+}
+
+.speaker {
+  text-align: center;
+  font-size:1.5rem;
+  padding: 0em 1em 0em 0em;
+}
+
+figure {
+ border: 5px solid #b2a215;
+ border-radius: 10px;
+ padding: 1em;
+ background-color: #fffce0;
+  text-align: center;
+  font-style:italic;
+}
+ img {
+   width: 100%;
+ }
+
+.per {
+  font-style: italic;
+}
+
+dt{
+  font-weight: bold;
+}
